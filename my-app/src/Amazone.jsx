@@ -1,4 +1,4 @@
-function App() {
+function Amazone() {
 
   let count = 0;
 
@@ -159,4 +159,4 @@ const btnStyle = {
   cursor:"pointer"
 };
 
-export default App;
+export default Amazone;
